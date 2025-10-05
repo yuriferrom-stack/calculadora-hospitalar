@@ -1,0 +1,21 @@
+{
+  "name": "Calculadora de Altas - Gestão Hospitalar",
+  "short_name": "Altas MPH",
+  "description": "Calculadora para o Médico Gestor Hospitalar: Altas necessárias para atingir a Média de Permanência Hospitalar (MPH) alvo.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
